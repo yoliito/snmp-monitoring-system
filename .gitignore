@@ -1,0 +1,10 @@
+# Ignorar archivos build de Maven
+/target/
+/.idea/
+/.vscode/
+*.class
+*.log
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
